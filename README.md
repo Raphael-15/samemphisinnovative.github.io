@@ -7,24 +7,24 @@
   - [Data Vsualization](https://docs.google.com/presentation/d/1aTnPnPJlDpdv-VIrqaIVIhl0nquOymZV/edit?usp=sharing&ouid=110806886587546223443&rtpof=true&sd=true)
 
 - <b>Wellness Company Project</b>
-  - [Report Breakdown](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Data Vsualization](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Report Breakdown]()
+  - [Data Vsualization]()
 
 <h2>📚 Cetifications: </h2>
 
-- [Google Data Analytics Professional Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Project Management Certificate](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Network Security Expert Certificate](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Digital Marketing and Content Creation Certificate](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Google Data Analytics Professional Certificate]()
+- [Project Management Certificate]()
+- [Network Security Expert Certificate]()
+- [Digital Marketing and Content Creation Certificate]()
 
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to get into Data Analytics From Zero]()
+- [A Day in the Life of a Data Anayst]()
+- [How to Create the perfect Resume]()
+- [Hidden truth of Project Management]()
+- [My Cyclistic Project Presentation]()
 
 
 
