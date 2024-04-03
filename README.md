@@ -1,6 +1,6 @@
 <h1>Hi, I'm Raphael! <br/><a href="https://github.com/Samuel-Anthony15/SamuelAnthony.github-io">Project Manager</a>, <a href="http://www.linkedin.com/in/raphael-omonzokpia">Data Analyst</a>, <a href="https://twitter.com/OmonzokpiaR">Content Creator</a></h1>
 
-<h2>👨‍💻 Education:</h2>
+<h2>👨‍🎓 Education:</h2>
 
 - <b>B.Eng., Electrical Engineering | Federal University of Agriculture Abeokuta</b>
   
