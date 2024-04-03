@@ -1,5 +1,9 @@
 <h1>Hi, I'm Raphael! <br/><a href="https://github.com/Samuel-Anthony15/SamuelAnthony.github-io">Project Manager</a>, <a href="http://www.linkedin.com/in/raphael-omonzokpia">Data Analyst</a>, <a href="https://twitter.com/OmonzokpiaR">Content Creator</a></h1>
 
+<h2>👨‍💻 Education:</h2>
+
+- <b>B.Eng., Electrical Engineering | Federal University of Agriculture Abeokuta</b>
+  
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Cyclistic Bike Project</b>
@@ -12,11 +16,11 @@
 
 <h2>📚 Cetifications: </h2>
 
-- [Google Data Analytics Professional Certificate]()
-- [Project Management Certificate]()
-- [Network Security Expert Certificate]()
-- [Digital Marketing and Content Creation Certificate]()
-
+- [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1LNUq3E3u9ShJW0q-e72fWUoHsxFPt-i-/view?usp=sharing)
+- [Project Management Certificate](https://drive.google.com/file/d/1p_r94VsB689xrzSp0Gtc-JQPNNqFxDgL/view?usp=sharing)
+- [Network Security Expert Certificate](https://drive.google.com/file/d/1RkCcHHDp8WpDq2Z5yxnrApBo8i9kdNZv/view?usp=sharing)
+- [Digital Marketing and Content Creation Certificate](https://drive.google.com/file/d/1oswQnAl4YkEM8_IGUSDIPswkso2CCfiu/view?usp=sharing)
+- [Understanding Machine Learning](https://drive.google.com/file/d/1ZsxVdqrzJRdl7wkTXNwAkJXOfzH4oHAF/view?usp=sharing)
 
 <h2>📺 Popular YouTube Videos</h2>
 
