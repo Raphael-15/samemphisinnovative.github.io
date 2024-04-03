@@ -2,7 +2,7 @@
 
 <h2>👨‍🎓 Education:</h2>
 
-- <b>B.Eng., Electrical Engineering | Federal University of Agriculture Abeokuta</b>
+- <b>B.Eng., Electrical Engineering | Federal University of Agriculture Abeokuta (October 2021)</b>
   
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
