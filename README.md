@@ -1,10 +1,10 @@
-<h1>Hi, I'm Ralph! <br/><a href="https://github.com/Samuel-Anthony15/SamuelAnthony.github-io">Project Manager</a>, <a href="http://www.linkedin.com/in/raphael-omonzokpia">Data Analyst</a>, <a href="https://twitter.com/OmonzokpiaR">Content Creator</a></h1>
+<h1>Hi, I'm Raphael! <br/><a href="https://github.com/Samuel-Anthony15/SamuelAnthony.github-io">Project Manager</a>, <a href="http://www.linkedin.com/in/raphael-omonzokpia">Data Analyst</a>, <a href="https://twitter.com/OmonzokpiaR">Content Creator</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Cyclistic Bike Project</b>
-  - [Report Breakdown](https://github.com/Samuel-Anthony15/SamuelAnthony.github-io/blob/main/CASE%20STUDY%20DOCUMENTATION.docx)
-  - [Data Vsualization](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Report Breakdown](https://docs.google.com/document/d/14WfvI-GTQjcEOvOWhF35Jm9iqDkgURdk/edit?usp=sharing&ouid=110806886587546223443&rtpof=true&sd=true)
+  - [Data Vsualization](https://docs.google.com/presentation/d/1aTnPnPJlDpdv-VIrqaIVIhl0nquOymZV/edit?usp=sharing&ouid=110806886587546223443&rtpof=true&sd=true)
 
 - <b>Wellness Company Project</b>
   - [Report Breakdown](https://github.com/joshmadakor1/Algorithms-Practice)
