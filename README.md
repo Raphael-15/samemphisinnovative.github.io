@@ -24,11 +24,11 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Data Analytics From Zero]()
-- [A Day in the Life of a Data Anayst]()
+- [Data Analysis: Cyclistic Bike Project Presentation](https://youtu.be/ePjpT4jHFhk)
+- [Entrepreneurship Scholarship](https://youtube.com/shorts/5GAya8neBVA)
 - [How to Create the perfect Resume]()
 - [Hidden truth of Project Management]()
-- [My Cyclistic Project Presentation]()
+- [How to get into Data Analytics From Zero]()
 
 
 
