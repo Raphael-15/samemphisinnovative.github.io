@@ -10,15 +10,15 @@
   - [Report Breakdown](https://docs.google.com/document/d/14WfvI-GTQjcEOvOWhF35Jm9iqDkgURdk/edit?usp=sharing&ouid=110806886587546223443&rtpof=true&sd=true)
   - [Data Vsualization](https://docs.google.com/presentation/d/1aTnPnPJlDpdv-VIrqaIVIhl0nquOymZV/edit?usp=sharing&ouid=110806886587546223443&rtpof=true&sd=true)
 
-- <b>Wellness Company Project</b>
-  - [Report Breakdown]()
-  - [Data Vsualization]()
+- <b>Inventory Optimization Project</b>
+  - [Report Breakdown](https://docs.google.com/document/d/19UepjwH3DPiVMchCbZQAvUkKV0-OUAwv/edit?usp=sharing&ouid=110806886587546223443&rtpof=true&sd=true)
+  - [Data Vsualization](https://drive.google.com/file/d/1chQBEFPy2zH_foKPJQ25HkjZElUt46Y-/view?usp=sharing)
 
 <h2>📚 Cetifications: </h2>
 
 - [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1LNUq3E3u9ShJW0q-e72fWUoHsxFPt-i-/view?usp=sharing)
 - [Project Management Certificate](https://drive.google.com/file/d/1p_r94VsB689xrzSp0Gtc-JQPNNqFxDgL/view?usp=sharing)
-- [Network Security Expert Certificate](https://drive.google.com/file/d/1RkCcHHDp8WpDq2Z5yxnrApBo8i9kdNZv/view?usp=sharing)
+- [AiCE Cohort 2 Legend](https://drive.google.com/file/d/1XszX0dqLoW76gGKKpvHiA2otIN02rQKf/view?usp=sharing)
 - [Digital Marketing and Content Creation Certificate](https://drive.google.com/file/d/1oswQnAl4YkEM8_IGUSDIPswkso2CCfiu/view?usp=sharing)
 - [Understanding Machine Learning](https://drive.google.com/file/d/1ZsxVdqrzJRdl7wkTXNwAkJXOfzH4oHAF/view?usp=sharing)
 
