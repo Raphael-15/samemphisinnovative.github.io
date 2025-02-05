@@ -1,10 +1,10 @@
-<h1>Hi, I'm Raphael! <br>Founder of <a href="https://memphisinnovative24.framer.ai/">Memphis Innovative</a><br> <br/><a href="https://raphael-15.github.io/samemphisinnovative.github.io/">Project Manager</a>, <a href="http://www.linkedin.com/in/raphael-omonzokpia">Data Analyst</a>, <a href="https://twitter.com/OmonzokpiaR">Content Creator</a></h1>
+<h1>Hi, I'm Raphael! <br>Founder of <a href="https://memphisinnovative24.framer.ai/">Memphis Innovative</a><br> <br/><a href="https://raphael-15.github.io/samemphisinnovative.github.io/">Project Manager</a>, <a href="http://www.linkedin.com/in/raphael-omonzokpia">Data Analyst</a>, <a href="https://twitter.com/OmonzokpiaR">IT Consultant</a></h1>
 
 <h2>👨‍🎓 Education:</h2>
 
 - <b>B.Eng., Electrical Engineering | Federal University of Agriculture Abeokuta (October 2021)</b>
   
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Cyclistic Bike Project</b>
   - [Report Breakdown](https://docs.google.com/document/d/14WfvI-GTQjcEOvOWhF35Jm9iqDkgURdk/edit?usp=sharing&ouid=110806886587546223443&rtpof=true&sd=true)
@@ -13,6 +13,10 @@
 - <b>Inventory Optimization Project</b>
   - [Report Breakdown](https://docs.google.com/document/d/19UepjwH3DPiVMchCbZQAvUkKV0-OUAwv/edit?usp=sharing&ouid=110806886587546223443&rtpof=true&sd=true)
   - [Data Vsualization](https://drive.google.com/file/d/1chQBEFPy2zH_foKPJQ25HkjZElUt46Y-/view?usp=sharing)
+
+- <b>Electricity Price Predicition</b>
+  - [Report Breakdown](https://acrobat.adobe.com/id/urn:aaid:sc:EU:6b0664c3-d4a7-4362-bdd3-ac84984fb41b)
+  - [Data Vsualization](https://drive.google.com/drive/folders/1Iy-kB5rZxsur2zpUKi1PPlvSdz5C8zXl?usp=sharing)
 
 <h2>📚 Cetifications: </h2>
 
