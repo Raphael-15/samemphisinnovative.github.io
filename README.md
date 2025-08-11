@@ -30,7 +30,7 @@
 
 - [Data Analysis: Cyclistic Bike Project Presentation](https://youtu.be/ePjpT4jHFhk)
 - [Entrepreneurship Scholarship](https://youtube.com/shorts/5GAya8neBVA)
-- [How to create the perfect Resume]()
+- [How to create the perfect Resume](https://youtu.be/dYL5Lq6CZkM)
 - [Hidden truth of Project Management]()
 - [How to get into Data Analytics From Zero]()
 
